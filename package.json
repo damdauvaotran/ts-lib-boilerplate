@@ -135,10 +135,6 @@
       "pre-commit": "lint-staged"
     }
   },
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-hook-form"
-  },
   "engines": {
     "node": ">=12.22.0",
     "pnpm": "8"
