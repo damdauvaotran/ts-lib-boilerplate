@@ -4,8 +4,8 @@ on:
   pull_request:
     types: [opened, synchronize]
     paths:
-      - docs/Helpers.yaml
-      - docs/Sponsors.yaml
+      # - docs/Helpers.yaml
+      # - docs/Sponsors.yaml
       - docs/Template.md
 
 jobs:
